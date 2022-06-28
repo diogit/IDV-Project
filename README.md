@@ -5,7 +5,7 @@ Understanding the evolution on the social and environmental aspects of a big cit
 ### Made by:
 
 * Catarina Ribeiro
-* Diogo Silvério
+* Diogo Silvério (Self)
 * Gualter Parada
 
 ### Prerequisites
